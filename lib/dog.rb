@@ -12,7 +12,4 @@ class Dog
     @@all.each  do |x| 
       puts "#{x.name}"}
   end
-   # def new
-  #
-  # end
 end
